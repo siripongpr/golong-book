@@ -26,3 +26,5 @@
 
 * chapter5-1: For command
 * chapter5-2: If command
+* chapter5-3: Switch case command
+* chapter5-4: Random
