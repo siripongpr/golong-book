@@ -47,3 +47,6 @@
 * chapter7-6: Delete map
 * chapter7-7: Avoid to check zero value
 * chapter7-8: Range of array
+* chapter7-9: Range of slice
+* chapter7-10: Range of map
+* chapter7-11: Range of string
