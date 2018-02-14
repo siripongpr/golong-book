@@ -35,3 +35,4 @@
 * chapter6-2: Return type can have name
 * chapter6-3: Multiple values can be returned
 * chapter6-4: Variadic function
+* chapter6-5: New FizzBuzz using function
