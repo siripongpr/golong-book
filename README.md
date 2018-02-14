@@ -45,3 +45,4 @@
 * chapter7-4: Copy slices
 * chapter7-5: Map
 * chapter7-6: Delete map
+* chapter7-7: Avoid to check zero value
