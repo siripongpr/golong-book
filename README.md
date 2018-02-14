@@ -32,3 +32,4 @@
 ## Chapter 6
 
 * chapter6-1: Function
+* chapter6-2: Return type can have name
