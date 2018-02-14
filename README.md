@@ -28,3 +28,7 @@
 * chapter5-2: If command
 * chapter5-3: Switch case command
 * chapter5-4: Random
+
+## Chapter 6
+
+* chapter6-1: Function
