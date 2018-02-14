@@ -44,3 +44,4 @@
 * chapter7-3: Create slice from array
 * chapter7-4: Copy slices
 * chapter7-5: Map
+* chapter7-6: Delete map
