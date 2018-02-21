@@ -50,3 +50,7 @@
 * chapter7-9: Range of slice
 * chapter7-10: Range of map
 * chapter7-11: Range of string
+
+## Chapter 8
+
+* chapter8-1: Pass by value
