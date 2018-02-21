@@ -58,3 +58,4 @@
 * chapter8-3: Pass by array value
 * chapter8-4: Pass by array pointer
 * chapter8-5: Pass by slice value
+* chapter8-6: Pass by map value
