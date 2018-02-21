@@ -63,3 +63,4 @@
 ## Chapter 9
 
 * chapter9-1: Struct type
+* chapter9-2: Specific type
