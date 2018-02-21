@@ -64,3 +64,8 @@
 
 * chapter9-1: Struct type
 * chapter9-2: Specific type
+* chapter9-3: Method
+
+## Chapter 10
+
+* chapter10-1: Method
