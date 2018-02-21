@@ -54,3 +54,4 @@
 ## Chapter 8
 
 * chapter8-1: Pass by value
+* chapter8-2: Pass by pointer
