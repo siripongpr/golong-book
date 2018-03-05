@@ -77,3 +77,8 @@
 ## Chapter 13
 
 * chapter13-1: Go routine
+* chapter13-2: Go routine
+* chapter13-3: Go routine
+* chapter13-4: Go routine
+* chapter13-5: Go routine
+* chapter13-6: Go routine
