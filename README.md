@@ -82,3 +82,17 @@
 * chapter13-4: Go routine
 * chapter13-5: Go routine
 * chapter13-6: Go routine
+* chapter13-7: Go routine
+* chapter13-8: Deadlock
+* chapter13-9: Channel [Communicating sequential processes (CSP)]
+* chapter13-10: Unbuffered channel
+* chapter13-11: Buffered channel
+* chapter13-12: Buffered overfilled
+* chapter13-13: Go routine leak
+* chapter13-14: Channel direction
+* chapter13-15: Channel direction
+* chapter13-16: Channel select
+* chapter13-17: Pipeline #1
+* chapter13-18: Pipeline #2
+* chapter13-19: Pipeline #3
+* chapter13-20: Timeout
